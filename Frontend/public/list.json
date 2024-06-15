@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Java Book",
+        "title": "Java Programming for Beginners",
+        "description": "A comprehensive guide to learning Java programming from scratch.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 2,
+        "name": "Python Book",
+        "title": "Python Crash Course",
+        "description": "Learn Python programming quickly with hands-on projects and examples.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 3,
+        "name": "Web Development Guide",
+        "title": "HTML, CSS, and JavaScript Basics",
+        "description": "A beginner's guide to web development covering HTML, CSS, and JavaScript fundamentals.",
+        "price":"0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 4,
+        "name": "Data Science Handbook",
+        "title": "Introduction to Data Science",
+        "description": "Explore the basics of data science including data analysis, visualization, and machine learning.",
+        "price": 24.99,
+        "category": "Paid",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 5,
+        "name": "Mobile App Development",
+        "title": "Building Mobile Apps with React Native",
+        "description": "Learn how to build cross-platform mobile applications using React Native framework.",
+        "price": 19.99,
+        "category": "Paid",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 6,
+        "name": "JavaScript Guide",
+        "title": "JavaScript Essentials",
+        "description": "Learn the essentials of JavaScript programming with practical examples and projects.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 7,
+        "name": "Digital Marketing Basics",
+        "title": "Introduction to Digital Marketing",
+        "description": "Understand the basics of digital marketing, including SEO, social media marketing, and email marketing.",
+        "price":"0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 8,
+        "name": "Graphic Design Principles",
+        "title": "Fundamentals of Graphic Design",
+        "description": "Learn the principles of graphic design and how to apply them in various projects.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 9,
+        "name": "Financial Literacy",
+        "title": "Basics of Personal Finance",
+        "description": "Learn how to manage your personal finances, including budgeting, saving, and investing.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 10,
+        "name": "Project Management",
+        "title": "Introduction to Project Management",
+        "description": "Understand the basics of project management, including planning, executing, and monitoring projects.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 11,
+        "name": "Machine Learning Basics",
+        "title": "Introduction to Machine Learning",
+        "description": "Explore the basics of machine learning and how to apply them in data science projects.",
+        "price":"0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 12,
+        "name": "Cloud Computing",
+        "title": "Getting Started with Cloud Computing",
+        "description": "Learn the basics of cloud computing and how to use various cloud services.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 13,
+        "name": "Cybersecurity",
+        "title": "Introduction to Cybersecurity",
+        "description": "Understand the fundamentals of cybersecurity and how to protect yourself online.",
+        "price":"0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 14,
+        "name": "Artificial Intelligence",
+        "title": "Basics of Artificial Intelligence",
+        "description": "Learn the basics of artificial intelligence and how it is used in various industries.",
+        "price":"0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 15,
+        "name": "DevOps Guide",
+        "title": "Introduction to DevOps",
+        "description": "Understand the principles of DevOps and how to implement them in software development.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 16,
+        "name": "Blockchain Basics",
+        "title": "Getting Started with Blockchain",
+        "description": "Learn the basics of blockchain technology and its applications.",
+        "price":"0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 17,
+        "name": "Game Development",
+        "title": "Introduction to Game Development",
+        "description": "Learn the basics of game development using popular game engines.",
+        "price":"0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 18,
+        "name": "Robotics",
+        "title": "Basics of Robotics",
+        "description": "Explore the fundamentals of robotics and how to build simple robots.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 19,
+        "name": "Augmented Reality",
+        "title": "Introduction to Augmented Reality",
+        "description": "Learn the basics of augmented reality and how to create AR applications.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    },
+    {
+        "id": 20,
+        "name": "Internet of Things",
+        "title": "Getting Started with IoT",
+        "description": "Understand the basics of the Internet of Things and how to create IoT projects.",
+        "price": "0$",
+        "category": "Free",
+        "image": "Freebook.png"
+    }
+]
